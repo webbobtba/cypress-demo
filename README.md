@@ -1,5 +1,6 @@
 # cypress-demo
-cypress.io demo
+
+[cypress](https://www.cypress.io/) demo
 
 ## Install
 
