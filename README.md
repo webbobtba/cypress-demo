@@ -14,7 +14,7 @@ git clone https://github.com/webbobtba/cypress-demo.git
 cd cypress-demo
 ```
 
-3. Get dependencies:
+3. Get dependencies (looong):
 ```js
 npm install
 ```
