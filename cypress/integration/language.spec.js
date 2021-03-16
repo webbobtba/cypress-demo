@@ -5,7 +5,7 @@ describe('language testen', () => {
     })
 
 
-    it('redirects to de/eur', () => {
+    it('redirects to uk/gbp', () => {
         cy.location().then(location =>{
             expect(location.href).to.include('uk/gbp')
         })
